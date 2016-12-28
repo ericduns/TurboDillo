@@ -1,0 +1,22 @@
+{
+  "name": "turbodillo",
+  "version": "0.0.1",
+  "description": "2d endless rolling game",
+  "main": "lib/index.js",
+  "types": "lib/index",
+  "author": {
+    "name": "Eric Dunsworth",
+    "email": "ericduns@gmail.com",
+    "url": "ericthedev.me"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "tinker-game": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "files": [
+    "lib"
+  ]
+}
